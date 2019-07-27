@@ -1,0 +1,43 @@
+local.properties
+proguard/
+
+# Generated files
+bin/
+gen/
+
+# Gradle
+.gradle
+gradlew.bat
+build
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+eclipsebin
+.metadata/
+
+# NDK
+obj/
+jniLibs
+app/app-release.apk
+app/src/main/java/org/succlz123/s1go/app/test/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+*.dex
+
+# IntelliJ related
+*.ipr
+*.iws
+*.iml
+.idea/
